@@ -1,5 +1,5 @@
-gradio
-python-dotenv
 openai
+python-dotenv
+gradio
 pypdf
 pydantic
